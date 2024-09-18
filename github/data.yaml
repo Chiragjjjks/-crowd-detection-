@@ -1,0 +1,5 @@
+train: /home/pirllabs/projectcrowd/train
+val: /home/pirllabs/projectcrowd/valid
+
+nc: 2
+names: ['head', 'person']
