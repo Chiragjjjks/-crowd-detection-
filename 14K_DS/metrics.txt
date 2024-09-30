@@ -1,0 +1,12 @@
+Total Bounding Boxes in Validation Labels: 22671
+Total Bounding Boxes in Predicted Labels: 15970
+
+True Positives (TP): 16094
+False Positives (FP): 10380
+False Negatives (FN): 6577
+True Negatives (TN): 5590
+
+Accuracy: 0.56
+Precision: 0.61
+Recall: 0.71
+F1 Score: 0.65
