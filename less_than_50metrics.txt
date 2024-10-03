@@ -1,0 +1,44 @@
+--- Head Metrics ---
+Total Bounding Boxes in Validation Labels: 61404
+Total Bounding Boxes in Predicted Labels: 35252
+True Positives (TP): 22203
+False Positives (FP): 30336
+False Negatives (FN): 39201
+True Negatives (TN): 4916
+Accuracy: 0.28
+Precision: 0.42
+Recall: 0.36
+F1 Score: 0.39
+
+--- Normalized Head Metrics ---
+Normalized TP: 0.23
+Normalized FP: 0.31
+Normalized FN: 0.41
+Normalized TN: 0.05
+Normalized Accuracy: 0.28
+Normalized Precision: 0.42
+Normalized Recall: 0.36
+Normalized F1 Score: 0.39
+
+--- Person Metrics ---
+Total Bounding Boxes in Validation Labels: 61352
+Total Bounding Boxes in Predicted Labels: 54516
+True Positives (TP): 28399
+False Positives (FP): 47484
+False Negatives (FN): 32953
+True Negatives (TN): 7032
+Accuracy: 0.31
+Precision: 0.37
+Recall: 0.46
+F1 Score: 0.41
+
+--- Normalized Person Metrics ---
+Normalized TP: 0.25
+Normalized FP: 0.41
+Normalized FN: 0.28
+Normalized TN: 0.06
+Normalized Accuracy: 0.31
+Normalized Precision: 0.37
+Normalized Recall: 0.46
+Normalized F1 Score: 0.41
+
